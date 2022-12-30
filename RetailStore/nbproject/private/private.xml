@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/db/DbConnection.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/model/Products.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/frames/ProductFrame.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/model/ProductUpdate.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/dao/UsersDao.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/model/Order.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/frames/LoginFrame.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/dao/OrderDao.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/frames/StoreFrame.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/retailstore/RetailStore.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/model/SupplyRequest.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/model/Users.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/frames/ProductFrameForManager.java</file>
+            <file>file:/home/sina/NetBeansProjects/RetailStore/src/com/frames/UserAndProductsUpdateFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
